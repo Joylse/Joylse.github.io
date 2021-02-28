@@ -167,7 +167,7 @@
   .u-section-1 .u-form-1 {
     margin-top: -276px;
     margin-right: -95px;
-    width: auto;
+    width: 320px;
   }
 }.u-section-2 {
   background-image: none;
@@ -315,12 +315,12 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 109px;
+    min-height: 144px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
     margin-top: -245px;
-    margin-bottom: -57px;
+    margin-bottom: -22px;
     margin-right: initial;
     margin-left: initial;
   }
