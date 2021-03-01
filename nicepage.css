@@ -31863,6 +31863,11 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 114px;
   }
 
+  .u-header .u-image-1 {
+    width: 110px;
+    height: 110px;
+  }
+
   .u-header .u-logo-image-1 {
     max-width: 110px;
     max-height: 110px;
