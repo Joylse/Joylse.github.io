@@ -1,5 +1,6 @@
 .u-section-1 {
-  background-image: none;
+  background-image: url("images/GradientWallpaper.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -21,15 +22,18 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-size: 6rem;
   font-weight: 700;
+  background-image: none;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
   text-transform: none;
   letter-spacing: normal;
-  font-size: 6rem;
   margin: 0;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 1rem;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
   margin: 13px 181px 0 251px;
 }
 
@@ -37,6 +41,11 @@
   height: 118px;
   width: 601px;
   margin: 0 auto;
+}
+
+.u-section-1 .u-input-1 {
+  font-style: italic;
+  font-weight: 400;
 }
 
 .u-section-1 .u-btn-1 {
@@ -60,29 +69,34 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 5.625rem;
     width: auto;
-    margin-top: -46px;
+    font-size: 4.5rem;
     margin-right: -140px;
     margin-left: -70px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
+    margin-top: 10px;
     margin-right: 81px;
     margin-left: 151px;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 1px;
-    margin-right: 119px;
-    margin-left: 136px;
+    margin-right: 80px;
+    margin-left: 150px;
+    width: auto;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 333px;
+    min-height: 636px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 178px;
+    margin-bottom: 1px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -94,21 +108,22 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 5rem;
-    margin-top: -206px;
-    margin-right: -110px;
+    font-size: 3.75rem;
+    margin-right: -199px;
+    margin-left: -159px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 20px;
+    margin-top: 23px;
     margin-right: 15px;
     margin-left: 55px;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 30px;
-    margin-right: 39px;
-    margin-left: 39px;
+    margin-top: 15px;
+    margin-right: 0;
+    margin-left: 40px;
+    width: 601px;
   }
 }
 
@@ -131,20 +146,19 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 4.6875rem;
-    margin-top: -110px;
+    margin-top: 61px;
     margin-right: -245px;
     margin-left: -10px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 12px;
-    margin-right: -174px;
-    margin-left: 61px;
+    margin-top: 22px;
+    margin-right: -163px;
+    margin-left: 72px;
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 12px;
+    margin-top: 0;
     margin-right: -235px;
     margin-left: 0;
     width: 520px;
@@ -170,9 +184,10 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.8125rem;
-    margin-top: -128px;
-    margin-right: -105px;
+    font-size: 2.25rem;
+    margin-top: -30px;
+    margin-right: -156px;
+    margin-left: -60px;
   }
 
   .u-section-1 .u-text-2 {
@@ -182,7 +197,6 @@
   }
 
   .u-section-1 .u-form-1 {
-    margin-top: 16px;
     margin-right: -95px;
     width: 320px;
   }
