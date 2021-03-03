@@ -1,15 +1,15 @@
 .u-section-1 {
-  background-image: url("images/GradientWallpaper.jpg");
+  background-image: url("images/Holographic2.png");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 620px;
+  min-height: 700px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
   margin-top: 119px;
-  margin-bottom: 60px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -25,7 +25,6 @@
   font-size: 6rem;
   font-weight: 700;
   background-image: none;
-  text-shadow: 0 2px 8px rgba(128,128,128,1);
   text-transform: none;
   letter-spacing: normal;
   margin: 0;
@@ -33,33 +32,11 @@
 
 .u-section-1 .u-text-2 {
   font-size: 1rem;
-  text-shadow: 0 2px 8px rgba(128,128,128,1);
-  margin: 13px 181px 0 251px;
-}
-
-.u-section-1 .u-form-1 {
-  height: 118px;
-  width: 601px;
-  margin: 0 auto;
-}
-
-.u-section-1 .u-input-1 {
-  font-style: italic;
-  font-weight: 400;
-}
-
-.u-section-1 .u-btn-1 {
-  border-style: solid;
-  font-size: 0.625rem;
-  font-weight: 700;
-  text-transform: uppercase;
+  width: 574px;
+  margin: 13px auto 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 517px;
-  }
-
   .u-section-1 .u-layout-cell-1 {
     min-height: 334px;
   }
@@ -78,25 +55,12 @@
   .u-section-1 .u-text-2 {
     width: auto;
     margin-top: 10px;
-    margin-right: 81px;
-    margin-left: 151px;
-  }
-
-  .u-section-1 .u-form-1 {
-    margin-right: 80px;
-    margin-left: 150px;
-    width: auto;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 636px;
-  }
-
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 178px;
-    margin-bottom: 1px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -109,8 +73,9 @@
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    margin-right: -199px;
-    margin-left: -159px;
+    margin-top: 24px;
+    margin-right: -60px;
+    margin-left: -20px;
   }
 
   .u-section-1 .u-text-2 {
@@ -118,20 +83,9 @@
     margin-right: 15px;
     margin-left: 55px;
   }
-
-  .u-section-1 .u-form-1 {
-    margin-top: 15px;
-    margin-right: 0;
-    margin-left: 40px;
-    width: 601px;
-  }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 651px;
-  }
-
   .u-section-1 .u-layout-wrap-1 {
     margin-top: 60px;
   }
@@ -146,28 +100,22 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: 61px;
+    font-size: 2.8125rem;
+    margin-top: 140px;
     margin-right: -245px;
     margin-left: -10px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 22px;
+    margin-top: 12px;
     margin-right: -163px;
     margin-left: 72px;
-  }
-
-  .u-section-1 .u-form-1 {
-    margin-top: 0;
-    margin-right: -235px;
-    margin-left: 0;
-    width: 520px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 503px;
+    min-height: 600px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -184,20 +132,14 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
-    margin-top: -30px;
-    margin-right: -156px;
-    margin-left: -60px;
+    font-size: 1.875rem;
+    margin-top: 78px;
+    margin-right: -105px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 16px;
-    margin-right: -105px;
-    margin-left: -10px;
-  }
-
-  .u-section-1 .u-form-1 {
-    margin-right: -95px;
-    width: 320px;
+    margin-top: 14px;
+    margin-right: -89px;
+    margin-left: 6px;
   }
 }

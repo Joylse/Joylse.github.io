@@ -1,8 +1,14 @@
 .u-section-1 {
-  background-image: url("images/GradientWallpaper.jpg");
+  background-image: url("images/Holographic2.png");
   background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 500px;
+  min-height: 700px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 600px;
+  }
 }
