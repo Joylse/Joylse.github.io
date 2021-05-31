@@ -1,0 +1,145 @@
+.u-section-1 {
+  background-image: url("images/Holographic2.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 700px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 119px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  background-image: none;
+  min-height: 411px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 90px 30px 20px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  font-weight: 700;
+  background-image: none;
+  text-transform: none;
+  letter-spacing: normal;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1rem;
+  width: 574px;
+  margin: 13px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 334px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 26px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    font-size: 4.5rem;
+    margin-right: -140px;
+    margin-left: -70px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 178px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 457px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 60px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+    margin-top: 24px;
+    margin-right: -60px;
+    margin-left: -20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 23px;
+    margin-right: 15px;
+    margin-left: 55px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 60px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 591px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 245px;
+    padding-left: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.8125rem;
+    margin-top: 140px;
+    margin-right: -245px;
+    margin-left: -10px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 12px;
+    margin-right: -163px;
+    margin-left: 72px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 600px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 133px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 311px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 105px;
+    padding-bottom: 29px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 78px;
+    margin-right: -105px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 14px;
+    margin-right: -89px;
+    margin-left: 6px;
+  }
+}
