@@ -34029,6 +34029,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
+  font-weight: 700;
 }
 @media (max-width: 1199px) {
   .u-header .u-text-1 {
@@ -34040,11 +34041,19 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 178px;
+  }
+
   .u-header .u-text-1 {
     margin-right: 641px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 202px;
+  }
+
   .u-header .u-text-1 {
     margin-right: 461px;
   }
